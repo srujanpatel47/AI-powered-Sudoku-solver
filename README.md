@@ -55,7 +55,7 @@ The project uses a learning-based model to predict missing values in Sudoku grid
 
 ## Repository Structure
 
-- `sudoku-solver.ipynb` — main notebook containing the implementation and experiments
+- `ai_powered_sudoku_solver.ipynb` — main notebook containing the implementation and experiments
 - `AI-project-report.pdf` — project report
 - `AI-Project-Proposal.pdf` — initial project proposal
 
