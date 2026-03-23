@@ -38,6 +38,14 @@ The project uses a learning-based model to predict missing values in Sudoku grid
 - NumPy
 - Jupyter Notebook / Google Colab
 
+## How to Run
+
+1. Clone the repository
+
+   ```bash
+   git clone https://github.com/srujanpatel47/AI-powered-Sudoku-solver.git
+   cd AI-powered-Sudoku-solver
+
 ## Key Outcomes
 
 - Built a hybrid ML + search system for Sudoku solving
